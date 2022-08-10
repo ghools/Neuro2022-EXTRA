@@ -1,10 +1,42 @@
+/* color scheme is Slate on tailwind; for hexcodes. */
+
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: 'Tiro Gurmukhi', serif;
 }
 
 html, body {
     height: 100%;
     width: 100%;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #334155; /*700 on tailwind*/
+    height: 15vh;
+}
+
+.header .text {
+    font-weight: bold;
+    color: #e2e8f0;
+    font-size: large;
+    margin: 15px;
+    padding: 7px;
+}
+
+.header .credit {
+   color: #cbd5e1;
+   font-weight: bolder;
+   margin: 15px;
+   padding: 7px;
+   font-size: larger;
 }

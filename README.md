@@ -1,7 +1,7 @@
 # Neuro2022-EXC
-Extra credit assignment for my Neuroscience class.
 
-Basic website made with Vanilla CSS/No Framework
+Basic website made with Vanilla HTML and CSS. Small amount of Javascript for slideshow functionality.
+
 Just an extra credit assignment for my Neuro-science class, not intended for real/commercial use.
 
 Basic, one page website that will contain Homebar and sidebar with basic info. Main part of website will be a slideshow on 4 parts of the brain, with picture and then description underneath.
@@ -10,7 +10,7 @@ Basic, one page website that will contain Homebar and sidebar with basic info. M
 
 Learn how to Implement a Slideshow with html/css/java/script including:
 
-    Buttons to go to next slide
+    Buttons to go to next/prev slide
     Basic styling with picture and then text/description
     Small animation on slide change (optional, may not have time)
     
