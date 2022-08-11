@@ -7,11 +7,6 @@
     font-family: 'Tiro Gurmukhi', serif;
 }
 
-/* html, body {
-    height: 100%;
-    width: 100%;
-} */
-
 .mainContainer {
     display: flex;
     flex-direction: column;
@@ -72,7 +67,7 @@
 
 .slide .text {
     color: #f1f5f9;
-    font-size: large;
+    font-size: 20px;
     margin: 15px;
     padding: 7px;
 }
